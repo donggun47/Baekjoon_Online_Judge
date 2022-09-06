@@ -10,3 +10,4 @@ elif 70 > score and score >= 60 :
     print("D")
 elif 60 > score and score >= 0 :
     print("F")
+# print('FFFFFFDCBAA'[int(input())//10])
